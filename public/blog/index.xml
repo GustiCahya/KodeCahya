@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on KodeCahya.com | Website pribadinya Gusti Cahya</title>
+    <link>http://example.org/blog/</link>
+    <description>Recent content in Blog on KodeCahya.com | Website pribadinya Gusti Cahya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jul 2018 12:32:37 +0600</lastBuildDate>
+    
+	<atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Belajar dari kesalahan</title>
+      <link>http://example.org/blog/1.-belajar-dari-kesalahan/</link>
+      <pubDate>Fri, 04 Oct 2019 12:22:40 +0600</pubDate>
+      
+      <guid>http://example.org/blog/1.-belajar-dari-kesalahan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
