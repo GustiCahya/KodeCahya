@@ -1,0 +1,103 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "KodeCahya.com | Website pribadinya Gusti Cahya"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Site Menus
+[menu]
+    # Navbar Menus
+    # [[menu.nav]]
+    #     name    = "About"
+    #     url     = "about"
+    #     weight  = 2
+    # [[menu.nav]]
+    #     name    = "Service"
+    #     url     = "service"
+    #     weight  = 3
+    [[menu.nav]]
+        name    = "Gallery"
+        url     = "gallery"
+        weight  = 4
+    [[menu.nav]]
+        name    = "Blog"
+        url     = "blog"
+        weight  = 5
+    # [[menu.nav]]
+    #     name    = "Contact"
+    #     url     = "contact"
+    #     weight  = 6
+
+# Site Params
+[params]
+    home = "Home"
+    logo = "images/logo.png"
+    dateFormat = "15 September 2019"
+    # Meta data
+    description = "Kodecahya adalah sebuah website pribadinya Gusti Cahya"
+    author = "Gusti Cahya"
+    # Google Analitycs
+    googleAnalitycsID = "Your ID"
+
+    # Banner Section
+    [params.banner]
+        enable  = true
+        bgImage = "images/slider.jpg"
+        heading = "Hello, My name is GUSTI CAHYA and i am"
+        description = "We don't have to be perfect to start, we just need to start then become perfect, So never stop learning..."
+        btn     = false
+        btnText = "Subscribe"
+        btnURL  = "https://www.youtube.com/channel/UCcq5Z3eGUNprtWgL7D5ZI0A"
+        [[params.banner.flipText]]
+            title   = "Front-end Developer"
+        [[params.banner.flipText]]
+            title   = "Back-end Developer"
+        [[params.banner.flipText]]
+            title   = "Android Developer"
+        [[params.banner.flipText]]
+            title   = "Game Developer"
+        [[params.banner.flipText]]
+            title   = "White hat hacker"
+        [[params.banner.flipText]]
+            title   = "Content Creator"
+
+    # Homepage About Section
+    [params.about]
+        enable  = true
+        title   = "ABOUT ME"
+        content = "Halo, saya adalah seorang pelajar yang masih terus mendalami ilmu tentang berbagai aspek yang berhubungan dengan komputer dan teknologi seperti web developer, android developer, game developer dan ethical hacking. <br> <br> Saya juga seorang Artificial Intelligence enthusiast yang selalu penasaran dengan bagaimana mesin bisa berpikir untuk mengembangkan dirinya sendiri serta saya berusaha untuk tetap membagikan ilmu yang telah saya pelajari melalui blog, instagram dan video-video di youtube."
+        image   = "images/about/about.jpg"
+
+    # Call to Action
+    [params.cta]
+        enable  = true
+        title   = "stay connected with me!"
+        content = "Saya adalah seorang content creator,<br>saya berusaha untuk sharing ilmu yang telah saya pelajari. Jadi pantengin terus channel saya oke ! 😎"
+        btnText1 = "Channel Youtube"
+        btnURL1  = "https://www.youtube.com/channel/UCcq5Z3eGUNprtWgL7D5ZI0A"
+        btnText2 = "Instagram"
+        btnURL2  = "https://www.instagram.com/gusticahya__/"
+
+    # Portfolio Section On Homepage
+    [params.portfolio]
+        enable  = false
+        title   = "Latest Works"
+        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+
+    [params.footer]
+        [[params.footer.socialIcon]]
+            icon = "ion-social-facebook"
+            url = "https://www.facebook.com/GustiCahyaX"
+
+        [[params.footer.socialIcon]]
+            icon = "ion-social-instagram"
+            url = "https://www.instagram.com/gusticahya__/"
+
+        [[params.footer.socialIcon]]
+            icon = "ion-social-linkedin"
+            url = "https://www.linkedin.com/in/gusti-cahya-68590517b/"
+        
+        [[params.footer.socialIcon]]
+            icon = "ion-social-youtube"
+            url = "https://www.youtube.com/channel/UCcq5Z3eGUNprtWgL7D5ZI0A"

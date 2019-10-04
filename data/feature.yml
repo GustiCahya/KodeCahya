@@ -1,0 +1,34 @@
+enable  : true
+title   : My character
+subtitle: >
+  Saya selalu berusaha untuk mengenal diri saya sendiri lebih dalam <br> untuk mengetahui apa yang perlu saya kembangkan.
+item    :
+  - icon  : ion-ios-flask-outline
+    title : Experimenter
+    description : >
+      Saya selalu penasaran tentang sesuatu dengan bereksperimen untuk mendapatkan hasil yang terbaik.
+
+  - icon  : ion-ios-lightbulb-outline
+    title : Creative
+    description : >
+      Mencari dan menemukan sudut pandang lain untuk memecahkan permasalahan sehingga menghasilkan solusi terbaik.
+
+  - icon  : ion-ios-book-outline
+    title : Learner
+    description : >
+      Tidak pernah berhenti belajar untuk terus mengembangkan potensi diri.
+
+  - icon  : ion-ios-thunderstorm-outline
+    title : Critical Thinking
+    description : >
+      Melihat dunia dengan rasa penasaran akan sebab dan akibatnya.
+
+  - icon  : ion-ios-briefcase-outline
+    title : Hard Worker
+    description : >
+      Bekerja dengan totalitas hingga permasalahan terselesaikan.
+  
+  - icon  : ion-ios-alarm-outline
+    title : Productive
+    description : >
+      Menghargai waktu setiap detiknya agar bisa memanfaatkannya semaksimal mungkin.
