@@ -50,7 +50,7 @@ theme = "timer-hugo"
         btnText = "Subscribe"
         btnURL  = "https://www.youtube.com/channel/UCcq5Z3eGUNprtWgL7D5ZI0A"
         [[params.banner.flipText]]
-            title   = "Full-Stack Developer"
+            title   = "JAM-Stack Developer"
         [[params.banner.flipText]]
             title   = "Android Developer"
         [[params.banner.flipText]]
