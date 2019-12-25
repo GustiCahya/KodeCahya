@@ -62,7 +62,7 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "ABOUT ME"
-        content = "Halo, saya adalah seorang pelajar yang masih terus mendalami ilmu tentang berbagai aspek yang berhubungan dengan komputer dan teknologi web developer<br> <br> Saya biasa menggunakan Codeigniter untuk membuat web app dan di website ini saya menggunakan hugo static site generator."
+        content = "Halo, saya adalah seorang pelajar yang masih terus mendalami ilmu tentang berbagai aspek yang berhubungan dengan komputer dan teknologi web developing<br> <br> Saya biasa menggunakan Codeigniter untuk membuat web app dan di website ini saya menggunakan hugo static site generator."
         image   = "images/about/about.jpg"
 
     # Call to Action
