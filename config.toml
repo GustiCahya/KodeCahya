@@ -56,15 +56,13 @@ theme = "timer-hugo"
         [[params.banner.flipText]]
             title   = "Full-Stack Developer"
         [[params.banner.flipText]]
-            title   = "Android Developer"
-        [[params.banner.flipText]]
             title   = "Content Creator"
 
     # Homepage About Section
     [params.about]
         enable  = true
         title   = "ABOUT ME"
-        content = "Halo, saya adalah seorang pelajar yang masih terus mendalami ilmu tentang berbagai aspek yang berhubungan dengan komputer dan teknologi seperti web developer, android developer, game developer dan ethical hacking. <br> <br> Saya juga seorang Artificial Intelligence enthusiast yang selalu penasaran dengan bagaimana mesin bisa berpikir untuk mengembangkan dirinya sendiri serta saya berusaha untuk tetap membagikan ilmu yang telah saya pelajari melalui blog, instagram dan video-video di youtube."
+        content = "Halo, saya adalah seorang pelajar yang masih terus mendalami ilmu tentang berbagai aspek yang berhubungan dengan komputer dan teknologi web developer<br> <br> Saya biasa menggunakan Codeigniter untuk membuat web app dan di website ini saya menggunakan hugo static site generator."
         image   = "images/about/about.jpg"
 
     # Call to Action
