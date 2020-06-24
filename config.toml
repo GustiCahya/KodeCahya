@@ -35,7 +35,7 @@ theme = "timer-hugo"
     logo = "images/logo.png"
     dateFormat = "15 September 2019"
     # Meta data
-    description = "Kodecahya adalah sebuah website pribadinya Gusti Cahya"
+    description = "Kodecahya is personal website of Gusti Cahya"
     author = "Gusti Cahya"
     # Google Analitycs
     googleAnalitycsID = "Your ID"
@@ -69,7 +69,7 @@ theme = "timer-hugo"
     [params.cta]
         enable  = true
         title   = "stay connected with me!"
-        content = "Saya adalah seorang content creator,<br>saya berusaha untuk sharing ilmu yang telah saya pelajari. Jadi pantengin terus channel saya oke ! 😎"
+        content = "I'm a content creator, <br> I'm trying to share the knowledge I've learned. So keep watching my channel okay! 😎"
         btnText1 = "Channel Youtube"
         btnURL1  = "https://www.youtube.com/channel/UCcq5Z3eGUNprtWgL7D5ZI0A"
         btnText2 = "Instagram"
