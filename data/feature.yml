@@ -1,17 +1,17 @@
 enable  : true
 title   : My character
 subtitle: >
-  I always observe myself in order to know what things that I should Improve.
+  I always observe myself in order to know what things I should Improve.
 item    :
   - icon  : ion-ios-flask-outline
     title : Experimenter
     description : >
-      I am always curious about something by experimenting to get the best results.
+      I always curious about something and experiment to get the best results.
 
   - icon  : ion-ios-lightbulb-outline
     title : Creative
     description : >
-      Seek and find other points of view to solve the problem so able to produce the best solution.
+      Seek and find other points of view to solve the problem and able to produce the best solution.
 
   - icon  : ion-ios-book-outline
     title : Learner
