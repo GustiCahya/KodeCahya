@@ -1,6 +1,6 @@
 baseURL = "https://kodecahya.netlify.com/"
 languageCode = "en-us"
-title = "KodeCahya.com | Website pribadinya Gusti Cahya"
+title = "KodeCahya.com | Gusti Cahya"
 theme = "timer-hugo"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
@@ -50,9 +50,9 @@ theme = "timer-hugo"
         btnText = "Subscribe"
         btnURL  = "https://www.youtube.com/channel/UCcq5Z3eGUNprtWgL7D5ZI0A"
         [[params.banner.flipText]]
-            title   = "Web Developer"
+            title   = "Hybrid Mobile Developer"
         [[params.banner.flipText]]
-            title   = "JAM-Stack Developer"
+            title   = "Desktop App Developer"
         [[params.banner.flipText]]
             title   = "Full-Stack Developer"
         [[params.banner.flipText]]
@@ -69,7 +69,7 @@ theme = "timer-hugo"
     [params.cta]
         enable  = true
         title   = "stay connected with me!"
-        content = "I'm a content creator, <br> I'm trying to share the knowledge I've learned. So keep watching my channel okay! 😎"
+        content = "I'm content creator, <br> I'm trying to share the knowledge I've learned. So keep watching my channel okay! 😎"
         btnText1 = "Channel Youtube"
         btnURL1  = "https://www.youtube.com/channel/UCcq5Z3eGUNprtWgL7D5ZI0A"
         btnText2 = "Instagram"
