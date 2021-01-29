@@ -69,7 +69,7 @@ theme = "timer-hugo"
     [params.cta]
         enable  = true
         title   = "stay connected with me!"
-        content = "I'm content creator, <br> I'm trying to share the knowledge I've learned. So keep watching my channel okay! 😎"
+        content = "I'm content creator, <br> I'm trying to share knowledge from what I've learned. So keep watching my channel okay! 😎"
         btnText1 = "Channel Youtube"
         btnURL1  = "https://www.youtube.com/channel/UCcq5Z3eGUNprtWgL7D5ZI0A"
         btnText2 = "Instagram"
