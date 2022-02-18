@@ -62,7 +62,7 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "ABOUT ME"
-        content = "Hello, I am a student who continues to explore knowledge about various aspects related to computers and web technology. <br> <br> I used to use React to create web apps and on this website I use Hugo static site generator."
+        content = "Hello, I'm developer who continues to explore knowledge about various aspects related to computers and web technology. <br> <br> I used to use React to create web apps and on this website I use Hugo static site generator."
         image   = "images/about/about.jpg"
 
     # Call to Action
@@ -72,8 +72,8 @@ theme = "timer-hugo"
         content = "I'm content creator, <br> I'm trying to share knowledge from what I've learned. So keep watching my channel okay! 😎"
         btnText1 = "Channel Youtube"
         btnURL1  = "https://www.youtube.com/channel/UCcq5Z3eGUNprtWgL7D5ZI0A"
-        btnText2 = "Instagram"
-        btnURL2  = "https://www.instagram.com/gusticahya__/"
+    #   btnText2 = "Instagram"
+    #   btnURL2  = "https://www.instagram.com/gusticahya__/"
         btnText3 = "Blog"
         btnURL3  = "/blog"
 
