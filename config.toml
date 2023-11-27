@@ -44,7 +44,7 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "images/slider.jpg"
-        heading = "Hello, My name is GUSTI CAHYA and i am experienced"
+        heading = "Hello, My name is GUSTI CAHYA and i am"
         description = "We don't need to be perfect to start, we just need to start then become perfect, So never stop learning..."
         btn     = false
         btnText = "Subscribe"
@@ -62,7 +62,7 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "ABOUT ME"
-        content = "Hello, I'm experienced full stack developer dedicated to the continuous pursuit of knowledge in various fields of computer science and web technologies. <br><br> With in-depth knowledge of software system design, installation, testing, and maintenance, I have a detail-oriented approach to managing multiple projects simultaneously. So far in my journey, I've used React to build dynamic web applications and used Hugo on this platform. <br><br> My expertise extends to user interface design, comprehensive testing, and effective debugging processes. I excel in both independent projects, demonstrating effective self-management, and in collaborative team environments, contributing to the success of productive teams. <br><br> Pursuit of excellence and keen observation of details ensure the delivery of high-quality software solutions."
+        content = "Hello, I'm developer who continues to explore knowledge about various aspects related to computers and web technology. <br> <br> I used to use React to create web apps and on this website I use Hugo."
         image   = "images/about/about.jpg"
 
     # Call to Action
