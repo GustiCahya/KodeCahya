@@ -1,6 +1,6 @@
-baseURL = "https://kodecahya.netlify.com/"
+baseURL = "gusticahya.com"
 languageCode = "en-us"
-title = "KodeCahya.com | Gusti Cahya"
+title = "GustiCahya.com | Gusti Cahya"
 theme = "timer-hugo"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
@@ -35,7 +35,7 @@ theme = "timer-hugo"
     logo = "images/logo.png"
     dateFormat = "15 September 2019"
     # Meta data
-    description = "Kodecahya is personal website of Gusti Cahya"
+    description = "gusticahya.com is personal website for Gusti Cahya"
     author = "Gusti Cahya"
     # Google Analitycs
     googleAnalitycsID = "Your ID"
@@ -52,9 +52,7 @@ theme = "timer-hugo"
         [[params.banner.flipText]]
             title   = "Full-Stack Developer"
         [[params.banner.flipText]]
-            title   = "Hybrid Mobile Developer"
-        [[params.banner.flipText]]
-            title   = "Desktop App Developer"
+            title   = "Hybrid Mobile App Developer"
         [[params.banner.flipText]]
             title   = "Content Creator"
 
@@ -62,7 +60,7 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "ABOUT ME"
-        content = "Hello, I'm developer who continues to explore knowledge about various aspects related to computers and web technology. <br> <br> I used to use React to create web apps and on this website I use Hugo static site generator."
+        content = "Hello, I'm an experienced full stack developer dedicated to the continuous pursuit of knowledge in various fields of computer science and web technologies. <br><br> With in-depth knowledge of software system design, installation, testing, and maintenance, I have a detail-oriented approach to managing multiple projects simultaneously. So far in my journey, I've used React to build dynamic web applications and used Hugo on this platform. <br><br> My expertise extends to user interface design, comprehensive testing, and effective debugging processes. I excel in both independent projects, demonstrating effective self-management, and in collaborative team environments, contributing to the success of productive teams. <br><br> Pursuit of excellence and keen observation of details ensure the delivery of high-quality software solutions."
         image   = "images/about/about.jpg"
 
     # Call to Action
@@ -71,7 +69,7 @@ theme = "timer-hugo"
         title   = "stay connected with me!"
         content = "I'm content creator, <br> I'm trying to share knowledge from what I've learned. So keep watching my channel okay! 😎"
         btnText1 = "Channel Youtube"
-        btnURL1  = "https://www.youtube.com/channel/UCcq5Z3eGUNprtWgL7D5ZI0A"
+        btnURL1  = "https://www.youtube.com/channel/UCtsWYrn86rR5rTIGLbuMW4Q"
     #   btnText2 = "Instagram"
     #   btnURL2  = "https://www.instagram.com/gusticahya__/"
         btnText3 = "Blog"
@@ -84,13 +82,13 @@ theme = "timer-hugo"
         subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
 
     [params.footer]
-        [[params.footer.socialIcon]]
-            icon = "ion-social-facebook"
-            url = "https://www.facebook.com/GustiCahyaX"
+        #[[params.footer.socialIcon]]
+        #    icon = "ion-social-facebook"
+        #    url = "https://www.facebook.com/GustiCahyaX"
 
-        [[params.footer.socialIcon]]
-            icon = "ion-social-instagram"
-            url = "https://www.instagram.com/gusticahya__/"
+        #[[params.footer.socialIcon]]
+        #    icon = "ion-social-instagram"
+        #    url = "https://www.instagram.com/gusticahya__/"
 
         [[params.footer.socialIcon]]
             icon = "ion-social-linkedin"
@@ -98,4 +96,4 @@ theme = "timer-hugo"
         
         [[params.footer.socialIcon]]
             icon = "ion-social-youtube"
-            url = "https://www.youtube.com/channel/UCcq5Z3eGUNprtWgL7D5ZI0A"
+            url = "https://www.youtube.com/channel/UCtsWYrn86rR5rTIGLbuMW4Q"
