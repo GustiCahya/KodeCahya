@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Us on GustiCahya.com | Gusti Cahya</title>
-    <link>https://kodecahya.netlify.com/about/</link>
+    <link>https://kodecahya.netlify.app/about/</link>
     <description>Recent content in About Us on GustiCahya.com | Gusti Cahya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="https://kodecahya.netlify.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="https://kodecahya.netlify.app/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
