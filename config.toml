@@ -62,7 +62,7 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "ABOUT ME"
-        content = "Hello, I'm developer who continues to explore knowledge about various aspects related to computers and web technology. <br> <br> I used to use React to create web apps and on this website I use Hugo."
+        content = "Hello, I'm developer who continues to explore knowledge about various aspects related to computers and web technology. <br> <br>"
         image   = "images/about/about.jpg"
 
     # Call to Action
