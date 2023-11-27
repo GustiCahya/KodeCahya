@@ -52,7 +52,7 @@ theme = "timer-hugo"
         [[params.banner.flipText]]
             title   = "Front-End Developer"
         [[params.banner.flipText]]
-            title   = "Hybrid Mobile App Developer"
+            title   = "Hybrid Mobile Developer"
         [[params.banner.flipText]]
             title   = "Full-Stack Developer"
         [[params.banner.flipText]]
