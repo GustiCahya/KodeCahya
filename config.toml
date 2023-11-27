@@ -54,6 +54,8 @@ theme = "timer-hugo"
         [[params.banner.flipText]]
             title   = "Hybrid Mobile App Developer"
         [[params.banner.flipText]]
+            title   = "Full-Stack Developer"
+        [[params.banner.flipText]]
             title   = "Content Creator"
 
     # Homepage About Section
