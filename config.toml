@@ -1,4 +1,4 @@
-baseURL = "gusticahya.com"
+baseURL = "https://kodecahya.netlify.app"
 languageCode = "en-us"
 title = "GustiCahya.com | Gusti Cahya"
 theme = "timer-hugo"
