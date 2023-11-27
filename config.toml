@@ -92,7 +92,7 @@ theme = "timer-hugo"
 
         [[params.footer.socialIcon]]
             icon = "ion-social-linkedin"
-            url = "https://www.linkedin.com/in/gusti-cahya-68590517b/"
+            url = "https://www.linkedin.com/in/gusti-bagus-cahya-utama/"
         
         [[params.footer.socialIcon]]
             icon = "ion-social-youtube"
