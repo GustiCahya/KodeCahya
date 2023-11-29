@@ -1,4 +1,4 @@
-baseURL = "https://kodecahya.netlify.app"
+baseURL = "http://gusticahya.com"
 languageCode = "en-us"
 title = "GustiCahya.com | Gusti Cahya"
 theme = "timer-hugo"
@@ -50,13 +50,13 @@ theme = "timer-hugo"
         btnText = "Subscribe"
         btnURL  = "https://www.youtube.com/channel/UCcq5Z3eGUNprtWgL7D5ZI0A"
         [[params.banner.flipText]]
-            title   = "Front-End Developer"
+            title   = "Front-End"
         [[params.banner.flipText]]
-            title   = "Hybrid Mobile Developer"
+            title   = "Hybrid Mobile"
         [[params.banner.flipText]]
-            title   = "Full-Stack Developer"
+            title   = "Full-Stack"
         [[params.banner.flipText]]
-            title   = "Content Creator"
+            title   = "Developer"
 
     # Homepage About Section
     [params.about]
