@@ -79,7 +79,7 @@ theme = "timer-hugo"
         title   = "Latest Works"
         subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
 
-    [params.footer]
+    #[params.footer]
         #[[params.footer.socialIcon]]
         #    icon = "ion-social-facebook"
         #    url = "https://www.facebook.com/GustiCahyaX"
@@ -88,10 +88,10 @@ theme = "timer-hugo"
         #    icon = "ion-social-instagram"
         #    url = "https://www.instagram.com/gusticahya__/"
 
-        [[params.footer.socialIcon]]
-            icon = "ion-social-linkedin"
-            url = "https://www.linkedin.com/in/gusti-bagus-cahya-utama/"
+        #[[params.footer.socialIcon]]
+        #    icon = "ion-social-linkedin"
+        #    url = "https://www.linkedin.com/in/gusti-bagus-cahya-utama/"
         
-        [[params.footer.socialIcon]]
-            icon = "ion-social-youtube"
-            url = "https://www.youtube.com/channel/UCtsWYrn86rR5rTIGLbuMW4Q"
+        #[[params.footer.socialIcon]]
+        #    icon = "ion-social-youtube"
+        #    url = "https://www.youtube.com/channel/UCtsWYrn86rR5rTIGLbuMW4Q"
