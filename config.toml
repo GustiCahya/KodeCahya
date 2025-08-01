@@ -51,8 +51,8 @@ theme = "timer-hugo"
         btnURL  = "https://www.youtube.com/channel/UCcq5Z3eGUNprtWgL7D5ZI0A"
         [[params.banner.flipText]]
             title   = "Typescript Dev"
-        [[params.banner.flipText]]
-            title   = "Content Creator"
+        #[[params.banner.flipText]]
+        #    title   = "Content Creator"
 
     # Homepage About Section
     [params.about]
