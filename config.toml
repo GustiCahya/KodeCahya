@@ -56,14 +56,14 @@ theme = "timer-hugo"
 
     # Homepage About Section
     [params.about]
-        enable  = true
+        enable  = false
         title   = "ABOUT ME"
         content = "Hello, I'm developer who continues to explore knowledge about various aspects related to computers and web technology. <br> <br>"
         image   = "images/about/about.jpg"
 
     # Call to Action
     [params.cta]
-        enable  = true
+        enable  = false
         title   = "stay connected with me!"
         content = "I'm content creator, <br> I'm trying to share knowledge from what I've learned. So keep watching my channel okay! 😎"
         btnText1 = "Channel Youtube"
