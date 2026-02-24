@@ -38,7 +38,7 @@ export default function Home() {
             <Link href="#projects" className="nav-link">Projects</Link>
             <Link href="#about" className="nav-link">About</Link>
             <Link href="#contact" className="nav-link">Contact</Link>
-            <a href="/Gusti%20Utama%20Resume_CV.pdf" className="btn btn-secondary" style={{ padding: '0.5rem 1rem', fontSize: '0.8rem' }}>
+            <a href="/Resume.pdf" className="btn btn-secondary" style={{ padding: '0.5rem 1rem', fontSize: '0.8rem' }}>
               Resume
             </a>
           </div>
@@ -91,7 +91,7 @@ export default function Home() {
                 {
                   title: 'Adalene Fashion Platform',
                   desc: 'A sleek e-commerce landing page and management system for resellers and retailers, focused on modern aesthetics and seamless user experience.',
-                  live: 'https://adalene.netlify.app/',
+                  live: 'https://adalene-e6ca8.web.app/',
                   code: 'https://github.com/GustiCahya/adalene-react',
                   tags: ['React', 'Node.js', 'SCSS']
                 },
