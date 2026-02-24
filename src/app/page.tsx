@@ -182,7 +182,7 @@ export default function Home() {
                 <motion.div variants={fadeInUp}>
                   <h4 style={{ marginBottom: '1rem', color: 'var(--text-muted)' }}>Tools & Methods</h4>
                   <div className="flex gap-2" style={{ flexWrap: 'wrap' }}>
-                    {['Git', 'GitHub', 'Jira', 'Slack', 'Figma (Hand-off)', 'Agile / Scrum', 'CI/CD', 'TDD', 'Remote Collaboration'].map(skill => <span key={skill} className="badge">{skill}</span>)}
+                    {['Git', 'GitHub', 'Jira', 'Shortcut', 'Slack', 'Figma (Hand-off)', 'Agile / Scrum', 'CI/CD', 'TDD', 'Remote Collaboration'].map(skill => <span key={skill} className="badge">{skill}</span>)}
                   </div>
                 </motion.div>
               </div>
