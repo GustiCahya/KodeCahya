@@ -103,10 +103,10 @@ export default function Home() {
                   tags: ['Materialize']
                 },
                 {
-                  title: 'Rock Paper Scissors Game',
-                  desc: 'An interactive and fun web-based game featuring smooth logic and classic gameplay, built to demonstrate DOM manipulation and state management in JavaScript.',
-                  live: 'https://guntingbatukertas.netlify.app/',
-                  code: 'https://github.com/GustiCahya/rockpaperscissors',
+                  title: 'Snake Game',
+                  desc: 'An interactive and fun web-based game featuring smooth logic and classic gameplay, built to demonstrate HTML5 Canvas programming and state management in JavaScript.',
+                  live: 'https://ular.netlify.app/',
+                  code: 'https://github.com/GustiCahya/SnakeGame',
                   tags: ['Javascript']
                 }
               ].map((project, idx) => (
