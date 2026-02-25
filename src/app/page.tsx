@@ -170,13 +170,13 @@ export default function Home() {
                 <motion.div variants={fadeInUp}>
                   <h4 style={{ marginBottom: '1rem', color: 'var(--text-muted)' }}>Frameworks & State</h4>
                   <div className="flex gap-2" style={{ flexWrap: 'wrap' }}>
-                    {['React.js', 'Next.js', 'Vue.js', 'Angular.js', 'Redux Toolkit', 'Zustand', 'React Query'].map(skill => <span key={skill} className="badge">{skill}</span>)}
+                    {['React.js', 'Next.js', 'Vue.js', 'Angular.js', 'Redux Toolkit', 'Jotai', 'Zustand', 'React Query', 'React Router', 'Ionic', 'Capacitor'].map(skill => <span key={skill} className="badge">{skill}</span>)}
                   </div>
                 </motion.div>
                 <motion.div variants={fadeInUp}>
                   <h4 style={{ marginBottom: '1rem', color: 'var(--text-muted)' }}>Styling & Others</h4>
                   <div className="flex gap-2" style={{ flexWrap: 'wrap' }}>
-                    {['Tailwind CSS', 'Styled Components', 'SCSS', 'Framer Motion', 'RESTful APIs', 'GraphQL'].map(skill => <span key={skill} className="badge">{skill}</span>)}
+                    {['Tailwind CSS', 'Styled Components', 'shadcn/ui', 'SCSS', 'Framer Motion', 'RESTful APIs', 'GraphQL'].map(skill => <span key={skill} className="badge">{skill}</span>)}
                   </div>
                 </motion.div>
                 <motion.div variants={fadeInUp}>
