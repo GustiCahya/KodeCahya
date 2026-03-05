@@ -97,7 +97,7 @@ export default function Home() {
                 },
                 {
                   title: 'Tradexa',
-                  desc: 'Designed for committed traders, Tradexa is a high-end trading log. Monitor results, evaluate psychological and performance errors, and refine competitive advantage.',
+                  desc: 'Designed for committed traders, Tradexa is a high-end trading journal. Monitor results, evaluate psychological and performance errors, and refine competitive advantage.',
                   live: 'https://tradexa-ledger.vercel.app/',
                   code: 'https://github.com/GustiCahya/tradexa',
                   tags: ['Next.js', 'Tailwind CSS', 'Neon', 'Prisma', 'NextAuth.js', 'Recharts', 'Lucide React']
