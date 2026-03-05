@@ -100,7 +100,7 @@ export default function Home() {
                   desc: 'Designed for committed traders, Tradexa is a high-end trading log. Monitor results, evaluate psychological and performance errors, and refine competitive advantage.',
                   live: 'https://tradexa-ledger.vercel.app/',
                   code: 'https://github.com/GustiCahya/tradexa',
-                  tags: ['Materialize']
+                  tags: ['Next.js', 'Tailwind CSS', 'Neon', 'Prisma', 'NextAuth.js', 'Recharts', 'Lucide React']
                 },
                 {
                   title: 'Snake Game',
