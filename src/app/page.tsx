@@ -96,10 +96,10 @@ export default function Home() {
                   tags: ['React', 'Node.js', 'SCSS']
                 },
                 {
-                  title: 'Coffee King',
-                  desc: 'A stylish coffee shop management dashboard and landing page built with Materialize CSS, focusing on clean data visualization.',
-                  live: 'https://gccoffeeking.netlify.app/',
-                  code: 'https://github.com/GustiCahya/CoffeeKing',
+                  title: 'Tradexa',
+                  desc: 'Designed for committed traders, Tradexa is a high-end trading log. Monitor results, evaluate psychological and performance errors, and refine competitive advantage.',
+                  live: 'https://tradexa-ledger.vercel.app/',
+                  code: 'https://github.com/GustiCahya/tradexa',
                   tags: ['Materialize']
                 },
                 {
